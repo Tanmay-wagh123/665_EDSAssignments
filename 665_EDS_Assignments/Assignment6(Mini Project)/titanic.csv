@@ -1,0 +1,11 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,0,3,Braund,Mr. Owen Harris,22.0,1,0,A/5 21171,7.25,,S
+2,1,1,Cumings,Mrs. John Bradley (Florence Briggs Thayer),38.0,1,0,PC 17599,71.2833,C85,C
+3,1,1,Heikkinen,Miss. Ellen,26.0,0,0,STON/O2. 3101282,7.925,,S
+4,1,3,Futrelle,Mrs. Jacques Heath (Loraine Allison),35.0,1,0,PC 17599,53.125,C123,S
+5,0,3,Allen,Mr. William Henry,35.0,0,0,39237,8.05,,S
+6,0,3,Moran,Mr. James,42.0,0,0,380136,7.75,,Q
+7,0,1,McCarthy,Miss. Catherine,24.0,0,0,234360,7.75,,S
+8,1,3,Palsson,Miss. Margaretha,22.0,0,0,347082,7.125,,S
+9,1,1,Ismay,Mr. Bruce,47.0,1,0,PC 17599,56.25,B58,S
+10,0,3,Fleming,Mr. Alexander,32.0,0,0,382055,7.5,,Q
